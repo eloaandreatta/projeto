@@ -1,0 +1,14 @@
+# .NET build outputs
+**bin/
+**obj/
+appsettings.Development.json
+coveragereport
+TestResults
+.vs/
+projeto-biblioteca\Models\PostgresContext.cs
+projeto-biblioteca\appsettings.json
+
+# Coverage
+*.cobertura.xml
+**/TestResults/
+**/coveragereport/
